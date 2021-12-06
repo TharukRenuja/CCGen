@@ -31,4 +31,3 @@ Unfortunately it would seem that a lot of libraries are quite clever and will on
 ## Credits
 
 - [Ardesco](https://github.com/Ardesco)
-- [TR-TECH-GUIDE](https://github.com/TR-TECH-GUIDE)
